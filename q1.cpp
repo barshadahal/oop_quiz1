@@ -1,7 +1,7 @@
 /*
  Program: Question 1 from quiz 1.
- Name   : Milan Lamichhane
- Roll   :
+ Name   : Barsha Dahal
+ Roll   : 0309
  Output : 8
 */
 
